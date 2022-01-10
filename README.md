@@ -1,4 +1,4 @@
-# DataVisulaizationOnPythonStockMarket
+# DataVisualizationOnPythonStockMarket
 ## Importing train data from the web for a year for a handful of companies to conduct analysis
 ### Visualizing adjusted close price, percent change and correlation between each companies stock prices
 ### Finding out answers to interesting questions as follows:
